@@ -52,7 +52,7 @@
 
 ## 📫 Get in Touch
 
-- 🌐 [Portfolio](https://your-portfolio.com)
+- 🌐 [Portfolio](https://ankush-rishi.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankush-r-a3056675/)
 - 📧 ankushrishi5@gmail.com
 
